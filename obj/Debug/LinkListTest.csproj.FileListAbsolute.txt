@@ -1,0 +1,6 @@
+D:\CodeTest\LinkListTest\LinkListTest\obj\Debug\LinkListTest.csprojResolveAssemblyReference.cache
+D:\CodeTest\LinkListTest\LinkListTest\bin\Debug\LinkListTest.exe.config
+D:\CodeTest\LinkListTest\LinkListTest\bin\Debug\LinkListTest.exe
+D:\CodeTest\LinkListTest\LinkListTest\bin\Debug\LinkListTest.pdb
+D:\CodeTest\LinkListTest\LinkListTest\obj\Debug\LinkListTest.exe
+D:\CodeTest\LinkListTest\LinkListTest\obj\Debug\LinkListTest.pdb
